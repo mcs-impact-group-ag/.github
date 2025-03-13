@@ -1,0 +1,11 @@
+# Defining code owners for the repository
+
+# Default: Only members of the organization can review and approve PRs
+* @mcs-impact-group-ag
+
+# Optional: Assign ownership to specific teams
+# /backend @mcs-impact-group-ag/backend-team
+# /frontend @mcs-impact-group-ag/frontend-team
+
+# Optional: Assign ownership to specific individuals
+# /infra @username1 @username2
